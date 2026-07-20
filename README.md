@@ -89,7 +89,7 @@ The dashboard is designed to support **data-driven HR decision-making**.
 
 ---
 ## 🔗 Live Dashboard
-[<img src= "https://github.com/Madhusudhan-data/HR-Analytics/blob/main/HR_Dashboard.png">](https://app.powerbi.com/view?r=YOUR_ACTUAL_PUBLISH_LINK)
+[<img src="https://raw.githubusercontent.com/Madhusudhan-data/HR-Analytics/main/HR_Dashboard.png" alt="HR Dashboard Preview" width="600"/>](YOUR_POWER_BI_PUBLISH_LINK_HERE)
 
 > Click the image above to explore the **interactive Power BI dashboard** live.
 
