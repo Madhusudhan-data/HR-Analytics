@@ -94,4 +94,4 @@ The dashboard is designed to support **data-driven HR decision-making**.
 
 > Click the image above to explore the interactive Power BI dashboard.
 
-📁 **Download Report:** [HR Analytics Report](https://github.com/Madhusudhan-data/HR-Analytics/raw/main/hr_analytics_dashboard.pbix)
+📁 **Download Report:** [HR Analytics Report](https://github.com/Madhusudhan-data/HR-Analytics/blob/main/hr_analytics_dashboard.pbix)
